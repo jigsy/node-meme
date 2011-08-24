@@ -9,7 +9,7 @@
     "url": "git://github.com/Floby/node-meme.git"
   },
   "author": "Florent Jaby <florent.jaby@gmail.com>",
-  "main": "lib/warning.js",
+  "main": "lib/meme.js",
   "bin": {
 	"meme": "bin/app.js"
   },
